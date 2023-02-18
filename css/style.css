@@ -1,0 +1,27 @@
+body {
+    font-family: montserrat;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(150, 186, 225);
+    }
+.wrapper {
+    padding: 20px;
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: rgb(234, 237, 240);
+    width: 1000px;
+    margin: 0 auto;
+    border: thin;
+    border-color: aliceblue;
+}
+.main_content {
+    padding: 20px;
+    border: inset;
+    border-width: 2px;
+    
+}
+aside {
+    padding: 20px;
+    border: inset;
+    border-width: 2px;
+    }
