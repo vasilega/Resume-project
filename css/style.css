@@ -1,27 +1,30 @@
 body {
+    margin: auto;
     font-family: montserrat;
     margin: 20px;
     padding: 20px;
     background-color: rgb(150, 186, 225);
     }
 .wrapper {
+    margin: auto;
     padding: 20px;
     display: flex;
     flex-direction: row-reverse;
     background-color: rgb(234, 237, 240);
     width: 1000px;
-    margin: 0 auto;
+    border: inset;
     border: thin;
     border-color: aliceblue;
 }
 .main_content {
-    padding: 20px;
+    margin: auto;
+    padding: 10px;
     border: inset;
     border-width: 2px;
     
 }
 aside {
-    padding: 20px;
+    padding: 10px;
     border: inset;
     border-width: 2px;
     }
